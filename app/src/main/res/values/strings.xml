@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CountBook</string>
+    <string name="incCountButton">+</string>
+    <string name="decCountButton">-</string>
+    <string name="newCountButton">ADD COUNTER</string>
+    <string name="resetCountButton">Reset</string>
+    <string name="deleteCountButton">DELETE</string>
+    <string name="countName">Counter:</string>
+    <string name="countInitial">Value:</string>
+
+
+</resources>
