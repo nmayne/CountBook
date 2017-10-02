@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2017. nmayne, CMPUT 301, University of Alberta - All Rights Reserved.
+ * You may use, distribute, or modify this code under terms and conditions of the Code of Student Behaviour at University of Alberta.
+ * You may find a copy of the licence in this project. Otherwise please contact nmayne@ualberta.ca
+ */
+
 package com.a301.nicholasmayne.countbook;
 
 import com.google.gson.Gson;
@@ -25,8 +31,6 @@ import java.io.OutputStreamWriter;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 
-
-//                Log.d("NewCounter", countList.get(0).toString());
 
 
 public class CountListActivity extends AppCompatActivity {
