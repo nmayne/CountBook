@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/e372cda241b21215e8c8c9cca699713a96009b05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_ceae451e3292d32f4942b0d917105b820948c5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/aed4288b4772048c70a6aa7903abc87f4fb2e0f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_db7e5e08ea752f24af47c77c4ac11b81d20b15a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/78173a1c02c83d497293e56f414f550043168afe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_27181af6c68c24436aa54abb7d32c196a29c2a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/bc0a7952b4812442e5592eae440976db3c6520c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_ab55ed2e30aa9c324b7113e26d0f2892c2d11da1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/9a8b00fe411f3247c69c2e34496a8c73e0628f72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_c91d8cbfb067bfcac8403720defd81a523667eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/6fc0a85c8729c039dd0f116f992e38b934eae484/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_60d11ede27064d015b5333becee37961a67f3ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/6b84208b642a8d4d8926d68f47538c8414914100/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_85a21069fb6a3bf62be0349481778d225619f6d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/508e3a60f470e4c3a3cd2a2cf5f9b7d81a75333d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_dfcedc0b4954d80e155b276ecc2e30b1ba732df0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_95f1a96ce487c2c1c3a5362e1cab74e9b87b1ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/8c2c46f053859a39bff07d274be047a407d7ef87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_f7894aedb1f39b6d7d44045201072a46aac2791e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/.android/build-cache/cb803015d2c861201c13538c96c029516279635d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/classes_c79e19b1d82a20ff801a660edc41edddc92d4064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nicholasmayne/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/nicholasmayne/Documents/workspace/301/CountBook/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_27e11bb0e3f2ce444e1399c54134aa90e1a3db82.jar" />
+    </item>
+
+</items>
